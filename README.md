@@ -52,3 +52,12 @@ Failed request:
 ## Disclaimer
 
 For educational and research purposes only. Use only with accounts and services you are authorized to access.
+
+---
+
+### ⭐ Support
+
+If you find the project useful, consider giving the repository a ⭐ on GitHub.
+
+**Use responsibly.**
+
