@@ -32,12 +32,7 @@ New Bio: Your new bio
 Supported regions:
 
 ```text
-IND
-ME
-BR
-US
-SAC
-NA
+IND - ME - BR - US - SAC - NA
 ```
 
 ## Output
